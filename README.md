@@ -4,13 +4,13 @@ https://www.microsoft.com/en-us/download/details.aspx?id=35
 # MSI afterburner
 https://www.msi.com/Landing/afterburner/graphics-cards
 
-# C++
+# C++ drivers
 https://github.com/abbodi1406/vcredist
 
-# NodeJs
+# NodeJs Programming Language
 https://nodejs.org/en
 
-# Python
+# Python Programming Language
 https://www.python.org/
 
 # Process Lasso
