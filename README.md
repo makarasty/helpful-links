@@ -1,10 +1,10 @@
-# DirectX drivers
+# DirectX Drivers
 https://www.microsoft.com/en-us/download/details.aspx?id=35
 
 # MSI afterburner
 https://www.msi.com/Landing/afterburner/graphics-cards
 
-# C++ drivers
+# C++ Drivers
 https://github.com/abbodi1406/vcredist
 
 # NodeJs Programming Language
