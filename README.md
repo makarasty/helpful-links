@@ -7,8 +7,17 @@ https://github.com/abbodi1406/vcredist
 # NodeJs Programming Language
 https://nodejs.org/en
 
-# Python
+# Python Programming Language
 https://www.python.org/
+
+# Java Programming Language
+https://www.oracle.com/java/technologies/downloads/
+
+# .net (C#) Programming Language
+https://dotnet.microsoft.com/en-us/download/dotnet
+
+# Rust Programming Language
+https://www.rust-lang.org/
 
 # MSIAfterburner
 https://www.msi.com/Landing/afterburner/graphics-cards
@@ -18,6 +27,9 @@ https://bitsum.com/download-process-lasso/
 
 # qBittorrent
 https://www.qbittorrent.org/download
+
+# Optimizer
+https://github.com/hellzerg/optimizer/releases
 
 # ThrottleStop
 https://www.techpowerup.com/download/techpowerup-throttlestop/
