@@ -1,5 +1,11 @@
 # DirectX (Drivers)
-https://www.microsoft.com/en-us/download/details.aspx?id=35
+- https://www.microsoft.com/en-us/download/details.aspx?id=35
+
+# Nvidia (Drivers)
+https://www.nvidia.com/Download/index.aspx
+
+# AMD (Drivers)
+https://www.amd.com/en/support/download/drivers.html
 
 # C++ (Drivers)
 https://github.com/abbodi1406/vcredist
