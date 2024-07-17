@@ -19,6 +19,9 @@ https://dotnet.microsoft.com/en-us/download/dotnet
 # Rust (Programming Language)
 https://www.rust-lang.org/
 
+# Windows Defender Remover (Tools)
+https://github.com/ionuttbara/windows-defender-remover
+
 # MSIAfterburner (Program)
 https://www.msi.com/Landing/afterburner/graphics-cards
 
