@@ -19,8 +19,11 @@ https://www.python.org/
 # Java (Programming Language) (Drivers)
 https://www.oracle.com/java/technologies/downloads/
 
-# .net (C#) (Programming Language) (Drivers)
+# .net SDK (C#) (Programming Language) (Drivers)
 https://dotnet.microsoft.com/en-us/download/dotnet
+
+# .net Framework (C#) (Programming Language) (Drivers)
+https://dotnet.microsoft.com/en-us/download/dotnet-framework
 
 # Rust (Programming Language)
 https://www.rust-lang.org/
