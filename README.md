@@ -1,149 +1,108 @@
-# DirectX (Drivers)
-- https://www.microsoft.com/en-us/download/details.aspx?id=35
+`D` - Drivers
+\- [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+\- [Nvidia](https://www.nvidia.com/Download/index.aspx)
+\- [AMD](https://www.amd.com/en/support/download/drivers.html)
+\- [VCRedist](https://github.com/abbodi1406/vcredist)
 
-# Nvidia (Drivers)
-https://www.nvidia.com/Download/index.aspx
+`L` - Programming Languages
+\- [Node.js](https://nodejs.org/en)
+\- [Python](https://www.python.org/)
+\- [Java](https://www.oracle.com/java/technologies/downloads/)
+\- [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet)
+\- [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+\- [Rust](https://www.rust-lang.org/)
+\- [Bun](https://bun.sh/)
 
-# AMD (Drivers)
-https://www.amd.com/en/support/download/drivers.html
+`S` - Social
+\- [Telegram Desktop](https://desktop.telegram.org/)
+\- [Telegram Web](https://web.telegram.org/a/)
+\- [Discord](https://discord.com/)
 
-# C++ (Drivers)
-https://github.com/abbodi1406/vcredist
+`CP` - Cute Programs
+\- [TaskbarX](https://taskbarx.org/)
+\- [Lively Wallpaper](https://www.rocksdanister.com/lively/)
 
-# NodeJs (Programming Language)
-https://nodejs.org/en
+`DWKT` - Desktop Windows Killers Tools
+\- [Display Driver Uninstaller](https://www.wagnardsoft.com/forums/viewtopic.php?f=5&t=3517)
+\- [Nvidia Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/)
+\- [Windows Defender Remover](https://github.com/ionuttbara/windows-defender-remover)
+\- [NVCleanStall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+\- [Optimizer](https://github.com/hellzerg/optimizer/)
+\- [WinCry](https://github.com/ThePCDuke/WinCry)
+\- [Intelligent Standby List Cleaner](https://www.wagnardsoft.com/forums/viewtopic.php?f=18&t=1256)
 
-# Python (Programming Language)
-https://www.python.org/
+`OP` - Optimization Programs
+\- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
+\- [Process Lasso](https://bitsum.com/download-process-lasso/)
+\- [Throttle Stop](https://www.techpowerup.com/download/techpowerup-throttlestop/)
+\- [Latency Mon](https://www.resplendence.com/downloads)
+\- [FurMark](https://geeks3d.com/furmark/)
+\- [MSIUtil](https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/)
+\- [Windows Performance Analyzer](https://apps.microsoft.com/detail/9n0w1b2bxgnz)
 
-# Java (Programming Language) (Drivers)
-https://www.oracle.com/java/technologies/downloads/
+`P` - Programs
+\- [qBittorrent](https://www.qbittorrent.org/download)
+\- [AnyDesk](https://anydesk.com/)
+\- [flameshot](https://github.com/flameshot-org/flameshot)
+\- [Power Shell](https://github.com/PowerShell/PowerShell)
+\- [Media Player Classic](https://github.com/clsid2/mpc-hc)
 
-# .net SDK (C#) (Programming Language) (Drivers)
-https://dotnet.microsoft.com/en-us/download/dotnet
+`WW` - Web Wallpapers
+\- [LiveWallpaperPC](https://livewallpaperpc.com/)
+\- [DektopHut](https://www.desktophut.com/)
+\- [MoeWalls](https://moewalls.com/)
 
-# .net Framework (C#) (Programming Language) (Drivers)
-https://dotnet.microsoft.com/en-us/download/dotnet-framework
+`WI` - Web Images
+\- [wallpapersden](https://wallpapersden.com)
+\- [WaifuPics](https://waifu.pics/) (API)
+\- [nekos](https://nekos.best/) (API)
+\- [pinterest](https://www.pinterest.com/)
 
-# Rust (Programming Language)
-https://www.rust-lang.org/
+`WT` - Web Tools
+\- [SpeedTest](https://www.speedtest.net/)
+\- [codepen](https://codepen.io)
+\- [proxy6](https://proxy6.net/)
+\- [Language Tool](https://languagetool.org/)
+\- [Wakatime](https://wakatime.com/)
+\- [Discord Embed](https://embed.dan.onl/)
+\- [Discord Time](https://hammertime.cyou/)
 
-# Windows Defender Remover (Tools)
-https://github.com/ionuttbara/windows-defender-remover
+`WAIT` - Web AI Tools
+\- [Hugging Face](https://huggingface.co/) (API)
+\- [Claude](https://claude.ai/) (API)
+\- [ChatGPT](https://chatgpt.com/) (API)
 
-# MSIAfterburner (Program)
-https://www.msi.com/Landing/afterburner/graphics-cards
+`WDT` - Web Download Tools
+\- [Cobalt Tools](https://cobalt.tools/)
 
-# ProcessLasso (Program)
-https://bitsum.com/download-process-lasso/
+`WTT` - Web Typing Tools
+\- [monkeytype](https://monkeytype.com/)
+\- [keybr](https://www.keybr.com/)
 
-# qBittorrent (Program)
-https://www.qbittorrent.org/download
+`WCET` - Web Content Editing Tools
+\- [Unicode Font Style](https://texteditor.com/font-converter/)
+\- [Ezgif](https://ezgif.com/)
+\- [stack edit](https://stackedit.io/)
+\- [sketchpad](https://sketch.io/sketchpad/)
 
-# Optimizer (Program)
-https://github.com/hellzerg/optimizer/releases
+`WFT` - Web Frontend Tools
+\- [Flat Icon](https://www.flaticon.com/)
+\- [Css Gradient](https://cssgradient.io/)
+\- [pngWing](https://www.pngwing.com/)
+\- [rgbBirdFlop](https://rgb.birdflop.com/)
 
-# ThrottleStop (Program)
-https://www.techpowerup.com/download/techpowerup-throttlestop/
+`WHT` - Web Hacker Tools
+\- [Fake Name Generator](https://www.fakenamegenerator.com/)
+\- [Photo Forensics](https://29a.ch/photo-forensics/#forensic-magnifier)
+\- [AperISolve](https://www.aperisolve.com/)
+\- [2ip](https://2ip.io/)
 
-# NVCleanStall (Program) (Drivers)
-https://www.techpowerup.com/download/techpowerup-nvcleanstall/
+`WM` - Web Films
+\- [filmoteka](https://filmoteka.skin/)
 
-# DisplayDriverUninstaller (Program) (Drivers)
-https://www.wagnardsoft.com/forums/viewtopic.php?f=5&t=3517
+`WMT` - Web Minecraft Tools
+\- [Minecraft Tools](https://minecraft.tools/)
+\- [hackertarget](https://hackertarget.com/)
 
-# TaskbarX (Program)
-https://taskbarx.org/
-
-# LivelyWallpaper (Program)
-https://www.rocksdanister.com/lively/
-
-# AnyDesk (Program)
-https://anydesk.com/en
-
-# LatencyMon (Program)
-https://www.resplendence.com/downloads
-
-# WindowsPerformanceAnalyzer (Program)
-https://apps.microsoft.com/detail/9n0w1b2bxgnz?hl=en-us&gl=US
-
-# FurMark (Program) (Benchmark)
-https://geeks3d.com/furmark/
-
-# NvidiaProfileInspector (Program)
-https://github.com/Orbmu2k/nvidiaProfileInspector/releases
-
-# MouseMovementRecorder (Program)
-https://donewmouseaccel.blogspot.com/2010/03/markc-windows-7-mouse-acceleration-fix.html
-
-# MSIUtil (Program)
-https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/
-
-# IntelligentStandbyListCleaner (Program)
-https://www.wagnardsoft.com/forums/viewtopic.php?f=18&t=1256
-
-# InterruptAffinityPolicyTool (Program)
-https://web.archive.org/web/20150520083753/https://download.microsoft.com/download/9/2/0/9200a84d-6c21-4226-9922-57ef1dae939e/interrupt_affinity_policy_tool.msi
-
-# TelegramWeb (Social)
-https://web.telegram.org/a/
-
-# TelegramDesktop (Social)
-https://desktop.telegram.org/
-
-# Discord (Social)
-https://discord.com/
-
-# UnicodeFontStyle (Converter/Editor)
-https://texteditor.com/font-converter/
-
-# LiveWallpaperPC (Wallpapers)
-https://livewallpaperpc.com/
-
-# LiveWallpapers (Wallpapers)
-https://www.desktophut.com/
-
-# LiveWallpapers (Wallpapers)
-https://moewalls.com/
-
-# Wallpapers (Wallpapers)
-https://wallpapersden.com
-
-# DiscordEmbed (Creator/Editor)
-https://embed.dan.onl/
-
-# DiscordTime (Creator/Editor/Converter)
-https://hammertime.cyou/ru
-
-# HuggingFace (API) (Tool)
-https://huggingface.co/
-
-# CobaltTools (Tool)
-https://cobalt.tools/
-
-# WaifuPics (API)
-https://waifu.pics/
-
-# FakeNameGenerator (Tool)
-https://www.fakenamegenerator.com/
-
-# LanguageTool (Tool)
-https://languagetool.org/uk
-
-# PhotoForensics (Tool) (Image)
-https://29a.ch/photo-forensics/#forensic-magnifier
-
-# FlatIcon (Tool) (Image)
-https://www.flaticon.com/
-
-# CssGradient (Tool) (Colors)
-https://cssgradient.io/
-
-# AperISolve (Tool) (Image)
-https://www.aperisolve.com/
-
-# pngWing (Tool) (Image)
-https://www.pngwing.com/
-
-# rgbBirdFlop (Tool) (Colors)
-https://rgb.birdflop.com/
+`Pirate` - Pirate Tools
+\- [rutracker](https://rutracker.org/)
