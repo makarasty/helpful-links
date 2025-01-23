@@ -59,6 +59,7 @@
 \- [WaifuPics](https://waifu.pics/) (API)
 \- [nekos](https://nekos.best/) (API)
 \- [pinterest](https://www.pinterest.com/)
+\- [pngwing](https://www.pngwing.com/)
 
 `🧩` - Web Tools
 \- [SpeedTest](https://www.speedtest.net/)
