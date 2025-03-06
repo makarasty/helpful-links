@@ -109,3 +109,4 @@
 
 `👥` - Pirate Tools
 \- [rutracker](https://rutracker.org/)
+\- [1337x](https://1337x.to/home/)
