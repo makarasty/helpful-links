@@ -13,10 +13,12 @@
 \- [qBittorrent](https://www.qbittorrent.org/download)
 \- [AnyDesk](https://anydesk.com/)
 \- [flameshot](https://github.com/flameshot-org/flameshot)
+\- [shareX](https://github.com/ShareX/ShareX)
 \- [Power Shell](https://github.com/PowerShell/PowerShell)
 \- [Media Player Classic](https://github.com/clsid2/mpc-hc)
 
 `✨` - Programming Languages
+\- [Bun](https://bun.com/)
 \- [Node.js](https://nodejs.org/en)
 \- [Python](https://www.python.org/)
 \- [Java](https://www.oracle.com/java/technologies/downloads/)
@@ -50,7 +52,6 @@
 \- [Intelligent Standby List Cleaner](https://www.wagnardsoft.com/forums/viewtopic.php?f=18&t=1256)
 
 `🌃` - Web Wallpapers
-\- [LiveWallpaperPC](https://livewallpaperpc.com/)
 \- [DektopHut](https://www.desktophut.com/)
 \- [MoeWalls](https://moewalls.com/)
 
@@ -68,7 +69,6 @@
 \- [Language Tool](https://languagetool.org/)
 \- [Wakatime](https://wakatime.com/)
 \- [Discord Embed](https://embed.dan.onl/)
-\- [Discord Time](https://hammertime.cyou/)
 
 `🤖` - Web AI Tools
 \- [Hugging Face](https://huggingface.co/) (API)
@@ -81,9 +81,6 @@
 `⌨` - Web Typing Tools
 \- [monkeytype](https://monkeytype.com/)
 \- [keybr](https://www.keybr.com/)
-
-`🐱‍🐉` - Web Films
-\- [filmoteka](https://filmoteka.skin/)
 
 `💎` - Web Minecraft Tools
 \- [Minecraft Tools](https://minecraft.tools/)
@@ -110,3 +107,4 @@
 `👥` - Pirate Tools
 \- [rutracker](https://rutracker.org/)
 \- [1337x](https://1337x.to/home/)
+\- [spaces](https://spaces.im/)
